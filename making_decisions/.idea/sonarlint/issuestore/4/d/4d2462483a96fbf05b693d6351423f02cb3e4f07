@@ -1,0 +1,29 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "month".(Å°Á’úÿÿÿÿ
+J
+java:S1854"5Remove this useless assignment to local variable "z".(»À„C
+O
+java:S1854"9Remove this useless assignment to local variable "viola".(ÇÄþ‘
+E
+java:S1481"*Remove this unused "month" local variable.(Å°Á’úÿÿÿÿ
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(Ý–Ò˜ÿÿÿÿÿ
+F
+java:S4524"+Move this default to the end of the switch.(Ý–Ò˜ÿÿÿÿÿ
+M	java:S106	"9Replace this use of System.out or System.err by a logger.(î¤±H
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñµ¨°ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·‘º•ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û­âÛûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(º¾ØÃ
+;
+java:S1481"&Remove this unused "z" local variable.(»À„C
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñÞÀàýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·Š·£
+@
+java:S1481"*Remove this unused "viola" local variable.(ÇÄþ‘
+a	java:S128%"LEnd this switch case with an unconditional break, return or throw statement.(£ç×æ
+f	java:S128$"LEnd this switch case with an unconditional break, return or throw statement.(¤Æõ­úÿÿÿÿ
+f	java:S128#"LEnd this switch case with an unconditional break, return or throw statement.(š”øßÿÿÿÿÿ
+F
+java:S4524$"+Move this default to the end of the switch.(¤Æõ­úÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(É˜ÕÂ
