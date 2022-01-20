@@ -1,0 +1,13 @@
+
+k
+java:S3008
+"PRename this field "COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÏØãüÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹ÙšÓ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§µüöøÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠšÑãøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èë—ì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯¶¡â
